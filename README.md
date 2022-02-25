@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Silas-Coleman
 - 👀 I’m interested in learning more code
-- 🌱 I’m currently learning data analysis with Pands
+- 🌱 I’m currently learning data analysis with Pandas
 - 💞️ I’m looking to collaborate on anything cool
 - 📫 You can reach me at silasc2401@gmail.com
